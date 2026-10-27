@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jw-business-solutions.vercel.app/sitemap.xml
